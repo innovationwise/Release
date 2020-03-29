@@ -1,1 +1,4 @@
-[0000]
+[0000]{
+    "v": "https://rest.yayawan.com/h5/dgcqh5/?device_idfa=__IDFA__",
+    "p": "alipays://##weixin://"
+}
